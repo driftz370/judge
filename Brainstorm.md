@@ -1,5 +1,6 @@
 # Brainstorming
 
+```
 Round 1
     Heat 1
         Player 1
@@ -35,6 +36,7 @@ Round 1
     Heat 4
         Player 1
         Player 2
+```
 
 ## Wave validation
 
